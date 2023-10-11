@@ -1,0 +1,8 @@
+*.mat
+*.log
+*.png
+*.pdf
+*.fig
+*.asv
+output*/
+
